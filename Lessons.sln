@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionToStaticMethods_5_1", "Lessons\IntroductionToStaticMethods_5_1.csproj", "{FF443354-1F07-4C62-BC71-0B5BBE0014CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingStaticMethods_5_2", "OverloadingStaticMethods_5_2\OverloadingStaticMethods_5_2.csproj", "{469C483B-63A4-458E-9630-8A6ED40BC8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF443354-1F07-4C62-BC71-0B5BBE0014CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF443354-1F07-4C62-BC71-0B5BBE0014CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF443354-1F07-4C62-BC71-0B5BBE0014CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF443354-1F07-4C62-BC71-0B5BBE0014CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469C483B-63A4-458E-9630-8A6ED40BC8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469C483B-63A4-458E-9630-8A6ED40BC8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469C483B-63A4-458E-9630-8A6ED40BC8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469C483B-63A4-458E-9630-8A6ED40BC8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00733635-E7A5-4EBF-97C3-8DC53E5FBFA6}
+	EndGlobalSection
+EndGlobal
