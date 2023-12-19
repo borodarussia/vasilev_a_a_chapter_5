@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F3D95904-620A-4092-94A1-8E8A564FD676}</ProjectGuid>
+    <ProjectGuid>{ABA47DA8-0FA6-457B-B6FB-5A9B42A2C45F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ArrayResultMethod_5_4</RootNamespace>
-    <AssemblyName>ArrayResultMethod_5_4</AssemblyName>
+    <RootNamespace>MechanismForPassingArgumentsToMethod_5_5</RootNamespace>
+    <AssemblyName>MechanismForPassingArgumentsToMethod_5_5</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArrayFromMethDemo.cs" />
+    <Compile Include="ArgsDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ArrayResultMethod_5_4
 {
-    internal class Program
+    internal class ArrayFromMethDemo
     {
         // метод для создания массива с числами фибоначчи:
         static int[] fibs(int n)
