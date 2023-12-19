@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingStaticMethods_5_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingAnArrayAsAnArgumentToAMethod_5_3", "PassingAnArrayAsAnArgumentToAMethod_5_3\PassingAnArrayAsAnArgumentToAMethod_5_3.csproj", "{6FB8D7AE-3F1B-4BFE-91F5-B2EF69F959AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayResultMethod_5_4", "ArrayResultMethod_5_4\ArrayResultMethod_5_4.csproj", "{F3D95904-620A-4092-94A1-8E8A564FD676}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6FB8D7AE-3F1B-4BFE-91F5-B2EF69F959AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FB8D7AE-3F1B-4BFE-91F5-B2EF69F959AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FB8D7AE-3F1B-4BFE-91F5-B2EF69F959AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D95904-620A-4092-94A1-8E8A564FD676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D95904-620A-4092-94A1-8E8A564FD676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D95904-620A-4092-94A1-8E8A564FD676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D95904-620A-4092-94A1-8E8A564FD676}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
