@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace hw_5_chapter_5
 {
-    internal class averageArray
+    internal class AverageArray
     {
         /*
          * Программа со статическим методом, аругментом которому передается
@@ -20,9 +20,7 @@ namespace hw_5_chapter_5
             double averageValue = 0.0;
 
             for (int i = 0; i < arr.Length; i++)
-            {                
                 averageValue += (double)arr[i] / (double)arr.Length;
-            }
 
             return averageValue;
         }

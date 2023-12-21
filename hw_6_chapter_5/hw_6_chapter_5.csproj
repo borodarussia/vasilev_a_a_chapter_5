@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{51896B17-668C-44CD-B16E-CB925CEBCDAB}</ProjectGuid>
+    <ProjectGuid>{5242AE49-242A-4FA2-A68F-ADFC84445B7D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>hw_5_chapter_5</RootNamespace>
-    <AssemblyName>hw_5_chapter_5</AssemblyName>
+    <RootNamespace>hw_6_chapter_5</RootNamespace>
+    <AssemblyName>hw_6_chapter_5</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AverageArray.cs" />
+    <Compile Include="MinValueOfArray.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
